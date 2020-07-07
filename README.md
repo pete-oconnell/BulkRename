@@ -1,2 +1,2 @@
 # BulkRename
-A basic bulk rename utility
+This is an example utility using the AVEVA Application Server GRAccess toolkit to perform a rename of templates and instances in a galaxy.
